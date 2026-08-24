@@ -33,8 +33,7 @@ export default function Footer() {
         </div>
       </div>
       <div className="mx-auto mt-10 flex max-w-6xl flex-col gap-1 border-t border-border px-6 pt-6 text-[.78rem] text-ink-soft">
-        <span>© 2026 SellSight, a Fernbridge Digital product.</span>
-        <span>Demo product — all data is seeded and stored locally in your browser, no real store or marketplace data is processed.</span>
+        <span>© 2026 SellSight, Demo product by ठिkaana — all data is seeded and stored locally in your browser, no real store or marketplace data is processed.</span>
       </div>
     </footer>
   )
