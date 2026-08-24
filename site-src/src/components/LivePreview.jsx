@@ -12,7 +12,7 @@ export default function LivePreview() {
             This isn't a mockup. It's the actual app.
           </h2>
           <p className="text-[1.02rem] leading-relaxed text-ink-soft text-pretty">
-            What you see below is the Fernbridge Commerce AI Listing Tool running live, with 8 seeded products — try the full thing yourself.
+            What you see below is SellSight running live, with 8 seeded products — try the full thing yourself.
           </p>
         </Reveal>
 
@@ -22,10 +22,10 @@ export default function LivePreview() {
               <span className="h-2.5 w-2.5 rounded-full bg-[#ffb4a8]" />
               <span className="h-2.5 w-2.5 rounded-full bg-[#ffe08a]" />
               <span className="h-2.5 w-2.5 rounded-full bg-[#a8e6c5]" />
-              <span className="ml-3 font-mono text-[.75rem] text-ink-soft">commerce-ai.app/dashboard</span>
+              <span className="ml-3 font-mono text-[.75rem] text-ink-soft">sellsight.app/dashboard</span>
             </div>
             <div className="h-[420px] overflow-hidden md:h-[560px]">
-              <iframe src="app.html" title="Fernbridge Commerce AI live preview" loading="lazy" tabIndex={-1} aria-hidden="true" className="h-full w-full border-0" />
+              <iframe src="app.html" title="SellSight live preview" loading="lazy" tabIndex={-1} aria-hidden="true" className="h-full w-full border-0" />
             </div>
           </motion.div>
           <div className="mt-8 text-center">

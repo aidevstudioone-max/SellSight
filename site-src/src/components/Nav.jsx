@@ -30,7 +30,7 @@ export default function Nav() {
           <span className="grid h-8 w-8 place-items-center rounded-[8px] bg-gradient-to-br from-violet to-teal text-white shadow-[0_6px_16px_rgba(124,92,252,.35)]">
             <IconSpark width={16} height={16} />
           </span>
-          Fernbridge Commerce AI
+          SellSight
         </a>
 
         <ul className="hidden items-center gap-7 text-sm font-medium text-ink-soft md:flex">

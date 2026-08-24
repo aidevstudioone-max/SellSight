@@ -40,7 +40,7 @@ export default function Hero() {
       <div className="relative mx-auto grid max-w-6xl grid-cols-1 items-center gap-14 px-6 lg:grid-cols-2">
         <div>
           <motion.span {...rise(0)} className="mb-5 inline-flex items-center gap-2 rounded-full bg-violet-light px-3.5 py-1.5 font-mono text-[.72rem] font-semibold uppercase tracking-[.07em] text-violet">
-            <IconSpark width={14} height={14} /> Fernbridge Commerce AI Listing Tool
+            <IconSpark width={14} height={14} /> SellSight AI Listing Optimizer
           </motion.span>
 
           <h1 className="mb-5 max-w-xl font-display text-[clamp(2.1rem,5vw,3.4rem)] font-bold leading-[1.08] tracking-tight text-balance">
@@ -49,7 +49,7 @@ export default function Hero() {
           </h1>
 
           <motion.p {...rise(0.24)} className="mb-8 max-w-[46ch] text-[1.08rem] leading-relaxed text-ink-soft text-pretty">
-            The Fernbridge Commerce AI Listing Tool generates search-ready titles, bullets and descriptions from your product's real features, scores every listing, and turns your sales and review data into plain-language recommendations — all in one dashboard.
+            SellSight generates search-ready titles, bullets and descriptions from your product's real features, scores every listing, and turns your sales and review data into plain-language recommendations — all in one dashboard.
           </motion.p>
 
           <motion.div {...rise(0.32)} className="mb-9 flex flex-wrap gap-3">

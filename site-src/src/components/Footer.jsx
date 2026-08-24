@@ -3,7 +3,7 @@ export default function Footer() {
     <footer className="border-t border-border py-14">
       <div className="mx-auto grid max-w-6xl grid-cols-1 gap-10 px-6 sm:grid-cols-2 lg:grid-cols-4">
         <div>
-          <a href="#top" className="mb-3 inline-block font-display text-[1.05rem] font-bold">Fernbridge Commerce AI</a>
+          <a href="#top" className="mb-3 inline-block font-display text-[1.05rem] font-bold">SellSight</a>
           <p className="max-w-[32ch] text-[.86rem] leading-relaxed text-ink-soft">
             AI-powered listing management and e-commerce analytics, by Fernbridge Digital.
           </p>
@@ -33,7 +33,7 @@ export default function Footer() {
         </div>
       </div>
       <div className="mx-auto mt-10 flex max-w-6xl flex-col gap-1 border-t border-border px-6 pt-6 text-[.78rem] text-ink-soft">
-        <span>© 2026 Fernbridge Commerce AI, a Fernbridge Digital product.</span>
+        <span>© 2026 SellSight, a Fernbridge Digital product.</span>
         <span>Demo product — all data is seeded and stored locally in your browser, no real store or marketplace data is processed.</span>
       </div>
     </footer>

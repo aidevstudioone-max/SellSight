@@ -17,7 +17,7 @@ export default function CTA() {
             Ready to see your listings, scored?
           </h2>
           <p className="relative mx-auto mb-8 max-w-[46ch] text-[1.02rem] text-white/85">
-            No sign-up, no setup — jump straight into a fully working demo of the Fernbridge Commerce AI Listing Tool with 8 seeded products.
+            No sign-up, no setup — jump straight into a fully working demo of SellSight with 8 seeded products.
           </p>
           <a href="app.html" className="relative inline-flex items-center gap-2 rounded-lg bg-white px-8 py-3.5 font-bold text-violet-dark transition-transform hover:-translate-y-0.5">
             Try Live Demo <IconBox width={17} height={17} />

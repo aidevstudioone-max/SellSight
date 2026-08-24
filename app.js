@@ -1,5 +1,5 @@
-const PRODUCTS_KEY = "commerceai_products";
-const WEIGHTS_KEY = "commerceai_weights";
+const PRODUCTS_KEY = "sellsight_products";
+const WEIGHTS_KEY = "sellsight_weights";
 
 const DEFAULT_WEIGHTS = { sales: 20, rating: 20, conversion: 20, listing: 20, returns: 20 };
 
